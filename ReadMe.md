@@ -6,3 +6,9 @@ test
 ====
 test
 ----
+
+*test*
+**test**
+***test***
+~~test~~
+<u>test</u>
