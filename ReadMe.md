@@ -38,6 +38,4 @@ test
 ***
 ---
 
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
+Link: [Google](https://google.com)
