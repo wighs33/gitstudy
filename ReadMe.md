@@ -38,4 +38,6 @@ test
 ***
 ---
 
-Link: [Google](https://google.com)
+[Google](https://google.com)
+
+![Alt text](/path/to/img.jpg)
